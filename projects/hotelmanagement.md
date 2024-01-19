@@ -12,7 +12,7 @@ summary: "C++ group project that manages rooms and customers in a hotel."
 ---
 
 This C++ group project is a hotel management system that keeps track of customers and available rooms.
-The requirements for this project focused on class inheritance and objects.
+The requirements for this project focused on class inheritance and objects. We created the functionality of adding and removing new rooms into the hotel with a singular array. Whithin those rooms, we added the functionality to check in/out customers and collect the total costs of visits. 
 
 ```cpp
 byte ADCRead(byte ch)
