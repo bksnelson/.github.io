@@ -17,8 +17,9 @@
   },
   "interests": [
     { "name": "Software engineering" },
-    { "name": "Video games" },
-    { "name": "Mobile apps" }
+    { "name": "Game developement" },
+    { "name": "App developement" },
+    { "name": "Web developement" }
   ],
   "skills": [
     {
