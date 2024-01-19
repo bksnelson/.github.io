@@ -13,7 +13,6 @@ summary: "C++ group project that organizes library books by genre."
 This C++ group project is a library management system that organizes books by genre and fiction/non-fiction. The requirements for this project focused on class inheritance and objects. We made this program by visualizing what a row of book shelves would like in arrays. To achieve this, we created 3D arrays that represent genres, finction/non-fiction and the books.
 
 ```cpp
-byte ADCRead(byte ch)
 class Book{
     protected:
         // variables
@@ -24,7 +23,6 @@ class Book{
         string publication;
 ```
 ```cpp
-byte ADCRead(byte ch)
 class Fiction: public Book{ // Check if this count matches genre counts
     public:
         Fiction(){
@@ -33,7 +31,6 @@ class Fiction: public Book{ // Check if this count matches genre counts
 };
 ```
 ```cpp
-byte ADCRead(byte ch)
 class Mystery: public Fiction{
     public:
         Mystery(int isbn, string title, string author, int edition, string publication){
@@ -47,7 +44,6 @@ class Mystery: public Fiction{
 };
 ```
 ```cpp
-byte ADCRead(byte ch)
 int main() {
     Book* library[2][2][20] = {{{nullptr}}}; 
     int choice;
