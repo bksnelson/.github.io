@@ -15,7 +15,6 @@ This C++ group project is a hotel management system that keeps track of customer
 The requirements for this project focused on class inheritance and objects. We created the functionality of adding and removing new rooms into the hotel with a singular array. Whithin those rooms, we added the functionality to check in/out customers and collect the total costs of visits. 
 
 ```cpp
-byte ADCRead(byte ch)
 class Customer{
     //Variables
 	private: 
@@ -28,7 +27,6 @@ class Customer{
 		double advance;
 ```
 ```cpp
-byte ADCRead(byte ch)
 class Room{
     //Variables
 	protected:
@@ -39,14 +37,12 @@ class Room{
 		double dailyRate;
 ```
 ```cpp
-byte ADCRead(byte ch)
 class HotelManagement: public Room{
     //Variables
     protected:
         Customer customer; //Customer object of a room
 ```
 ```cpp
-byte ADCRead(byte ch)
 class BookingSystem{
     //Variables
     private:
