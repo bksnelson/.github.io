@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/c++/c++.png
+image: img/c++/c++.png
 title: "Hotel Management"
 date: 2023
 published: true
@@ -10,12 +10,6 @@ labels:
   - C++
 summary: "C++ group project that manages rooms and customers in a hotel."
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
 
 This C++ group project is a hotel management system that keeps track of customers and available rooms.
 The requirements for this project focused on class inheritance and objects.
