@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/questions.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/smart-questions/questions.jpg">
 
 ## *What are smart questions?*
 In the dynamic field of software engineering, the art of asking smart questions proves to be a pivotal skill, building effective communication and collaborative problem-solving within the community. Smart questions serve as efficient tools for acquiring assistance, providing a clear expression of the problem at hand and creating the path toward resolution.
