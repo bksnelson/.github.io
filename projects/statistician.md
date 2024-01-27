@@ -10,7 +10,7 @@ labels:
   - Java
 summary: "Java project that collects and stores sequences."
 ---
-This class project is a bag class that collects and stores double sequences with the ability to rectrieve different types of information from it. The project focuses on the concept of information collection in bags and the creation of classes that use methods and static methods. It also has the ability to combine different sequences of numbers with the combination of two objects. This Statistician class provides a flexible and reusable solution for statistical analysis of double sequences, adhering to best practices in Java programming.
+This class project is a bag class that collects and stores double sequences with the ability to rectrieve different types of information from it. The project focuses on the concept of information collection in bags and the creation of classes that use methods and static methods. This Statistician class provides a flexible and reusable solution for statistical analysis of double sequences, adhering to best practices in Java programming.
 
 ```java
 public class Statistician
