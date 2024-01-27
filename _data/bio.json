@@ -7,7 +7,7 @@
     "phone": "808-404-7987",
     "website": "https://bksnelson.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "bksnelson", "url": "http://github.com/bksnelson" },
       { "network": "linkedin", "username": "bksnelson", "url": "http://linkedin.com/in/bksnelson" }
