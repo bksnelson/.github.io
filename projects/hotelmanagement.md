@@ -14,6 +14,7 @@ summary: "C++ group project that manages rooms and customers in a hotel."
 This C++ group project is a hotel management system that keeps track of customers and available rooms.
 The requirements for this project focused on class inheritance and objects. We created the functionality of adding and removing new rooms into the hotel with a singular array. Whithin those rooms, we added the functionality to check in/out customers and collect the total costs of visits. 
 
+*Customer Class:*
 The Customer Class encapsulates essential customer details, such as booking ID, name, address, contact, check-in/out dates, and advance payment. It features constructors to handle default instances and check-ins.
 ```cpp
 class Customer{
@@ -27,6 +28,8 @@ class Customer{
 		string outDate;
 		double advance;
 ```
+
+*Room Class:*
 The Room Class represents individual hotel rooms, storing crucial data like room number, AC availability, comfort type, size, and daily rate. The class includes a method to display detailed room information.
 ```cpp
 
@@ -48,7 +51,9 @@ void displayRoom(){
 		cout << "Room Size (B/S): " << size << "\n";
 		cout << "Daily Rate: " << dailyRate << "\n";
     }
-``` 
+```
+
+*HotelManagement Class:*
 The HotelManagement Class, an extension of Room, manages the association between rooms and customers. It facilitates adding customers to rooms and clearing customer data.
 ```cpp
 class HotelManagement: public Room{
@@ -68,6 +73,8 @@ void displayCheckout(int days){ //Param - number of days customer has been renti
     cout << "***Total Payable: " << days * dailyRate - customer.getAdvance() << "/ only\n";
 }
 ```
+
+*BookingSystem Class:*
 The BookingSystem Class serves as the core management entity, overseeing an array of HotelManagement objects. Its functionalities include adding and deleting rooms, checking in customers, checking out customers with accurate billing, searching for available rooms, and generating a guest summary report.
 ```cpp
 class BookingSystem{
