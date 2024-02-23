@@ -26,4 +26,16 @@ As an example, in one of my projects for my software engineering course, I was t
 <img width="500px" class="rounded pe-4" src="../img/bootstrap/northfaceCards.png">
 ## **Final thoughts**
 In the landscape of UI frameworks, Bootstrap 5 emerges as a potent tool for those seeking to enhance their web development projects. The initial learning curve is understandably challenging, yet the long-term advantages in terms of coding for efficiency, consistency and enhanced user experience validate the investment. From my limited experience, the surface level tools used stand as a testament to the depth and level of how much more Bootstrap can offer for efficient and visually appealing web applications. 
-
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+  </div>
+</div>
