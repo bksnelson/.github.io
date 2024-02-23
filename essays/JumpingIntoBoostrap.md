@@ -11,7 +11,6 @@ labels:
   - Web Development
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/smart-questions/questions.jpg">
 
 ## **UI frameworks**
 UI frameworks, at first glance, might seem like an additional layer of complexity. The allure of crafting websites from scratch using raw HTML and CSS can be enticing. However, the main reason for using UI frameworks is proven by its efficiency, consistency and a guarantee of a user friendly experience. One of the main advantages of UI frameworks, such as Bootstrap 5, is quick development. With the responsive grid system and library of pre-designed components, Bootstrap 5 gives developers the tools to create polished and user-friendly interfaces with ease. The development process capability not only reduces time and effort but also creates a foundation that can be built upon for specific project requirements. Consistency across projects is another reason to use UI frameworks. By using a predefined set of rules, classes and components, developers can ensure a consistent and professional look and feel across different projects. This not only enhances the user experience but also reduces workload by having things work across different platforms. 
@@ -23,7 +22,8 @@ The grid system in Bootstrap 5 proved to be excellent and easy to use. Its flexi
 
 ## **Bootstrap 5 example**
 As an example, in one of my projects for my software engineering course, I was tasked with recreating a website using Bootstrap 5. For this project, I chose to recreate The North Face store page. With the Bootstrap grid system I was able to make fluid and properly sectioned elements of the page. Alongside the grid system, I used the card system that seamlessly combined text and images into one cohesive and organized element. The predefined layouts and example code in the documentation greatly reduced the time and effort required to implement these features. 
-
+<img width="500px" class="rounded float-start pe-4" src="../img/bootstrap/northfaceMain.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/bootstrap/northfaceCards.png">
 ## **Final thoughts**
 In the landscape of UI frameworks, Bootstrap 5 emerges as a potent tool for those seeking to enhance their web development projects. The initial learning curve is understandably challenging, yet the long-term advantages in terms of coding for efficiency, consistency and enhanced user experience validate the investment. From my limited experience, the surface level tools used stand as a testament to the depth and level of how much more Bootstrap can offer for efficient and visually appealing web applications. 
 
