@@ -30,7 +30,7 @@ As an example, in one of my projects for my software engineering course, I was t
       <div class="card">
         <img src="../img/bootstrap/northfacemain.png">
         <div class="card-body">
-          <h5 class="card-text">Main image with text</h5>
+          <h5 class="card-text">Main image card</h5>
         </div>
       </div>
     </div>
