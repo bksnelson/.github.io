@@ -28,7 +28,7 @@ As an example, in one of my projects for my software engineering course, I was t
     <div class="col-1"></div>
     <div class="col-4 px-1">
       <div class="card">
-        <img src="../img/bootstrap/northfacemain.png">
+        <img src="../img/bootstrap/northfacefront.png">
         <div class="card-body">
           <h5 class="card-text">Main image card</h5>
         </div>
