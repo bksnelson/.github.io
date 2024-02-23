@@ -31,7 +31,7 @@ As an example, in one of my projects for my software engineering course, I was t
         </div>
       </div>
     </div>
-    <div class="col-2"></div>
+    <div class="col-1"></div>
     <div class="col-4 px-1">
       <div class="card" style="width: 400px;">
         <img src="../img/bootstrap/northfacecards.png">
