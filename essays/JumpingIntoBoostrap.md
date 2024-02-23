@@ -25,7 +25,7 @@ As an example, in one of my projects for my software engineering course, I was t
   <div class="row justify-content-center">
     <div class="col-xl-5 d-flex justify-content-center px-1 py-1">
       <div class="card" style="width: 500px;">
-        <img src="northfacefront.png">
+        <img src="../img/bootstrap/northfacefront">
         <div class="card-body">
           <h5 class="card-text">Main image card</h5>
         </div>
@@ -33,7 +33,7 @@ As an example, in one of my projects for my software engineering course, I was t
     </div>
     <div class="col-xl-5 d-flex justify-content-center px-1 py-1">
       <div class="card" style="width: 500px;">
-        <img src="northfacecards.png">
+        <img src="../img/bootstrap/northfacecards"
         <div class="card-body">
           <h5 class="card-text">Grid system with cards</h5>
         </div>
