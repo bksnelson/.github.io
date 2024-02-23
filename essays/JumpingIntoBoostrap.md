@@ -10,7 +10,7 @@ labels:
   - Bootstrap 5
   - Web Development
 ---
-<img width="200px" class="rounded pe-4 float-end my-3" src="../img/bootstrap/bootstrap-stack.png">
+<img width="225px" class="rounded pe-4 float-end my-5" src="../img/bootstrap/bootstrap-stack.png">
 ## **UI frameworks**
 UI frameworks, at first glance, might seem like an additional layer of complexity. The allure of crafting websites from scratch using raw HTML and CSS can be enticing. However, the main reason for using UI frameworks is proven by its efficiency, consistency and a guarantee of a user friendly experience. One of the main advantages of UI frameworks, such as Bootstrap 5, is quick development. With the responsive grid system and library of pre-designed components, Bootstrap 5 gives developers the tools to create polished and user-friendly interfaces with ease. The development process capability not only reduces time and effort but also creates a foundation that can be built upon for specific project requirements. Consistency across projects is another reason to use UI frameworks. By using a predefined set of rules, classes and components, developers can ensure a consistent and professional look and feel across different projects. This not only enhances the user experience but also reduces workload by having things work across different platforms.
 
