@@ -22,8 +22,28 @@ The grid system in Bootstrap 5 proved to be excellent and easy to use. Its flexi
 
 ## **Bootstrap 5 example**
 As an example, in one of my projects for my software engineering course, I was tasked with recreating a website using Bootstrap 5. For this project, I chose to recreate The North Face store page. With the Bootstrap grid system I was able to make fluid and properly sectioned elements of the page. Alongside the grid system, I used the card system that seamlessly combined text and images into one cohesive and organized element. The predefined layouts and example code in the documentation greatly reduced the time and effort required to implement these features. 
-<img width="500px" class="rounded pe-4" src="../img/bootstrap/northfaceMain.png">
-<img width="500px" class="rounded pe-4" src="../img/bootstrap/northfaceCards.png">
+
+<div class="container">
+  <div class="row pt-2">
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="../img/bootstrap/northfaceMain.png" width="300px">
+        <div class="card-body">
+          <h5 class="card-text">Main image with text</h5>
+        </div>
+      </div>
+    </div>
+    <div class="col-4 px-1">
+      <div class="card">
+        <img src="../img/bootstrap/northfaceCards.png" width="300px">
+        <div class="card-body">
+          <h5 class="card-text">Grid system with cards</h5>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## **Final thoughts**
 In the landscape of UI frameworks, Bootstrap 5 emerges as a potent tool for those seeking to enhance their web development projects. The initial learning curve is understandably challenging, yet the long-term advantages in terms of coding for efficiency, consistency and enhanced user experience validate the investment. From my limited experience, the surface level tools used stand as a testament to the depth and level of how much more Bootstrap can offer for efficient and visually appealing web applications. 
 
