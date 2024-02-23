@@ -11,7 +11,7 @@ labels:
   - IntelliJ
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/ESLint/GreenCheckmark.png">
+<img width="250px" class="rounded float-start pe-4" src="../img/ESLint/GreenCheckmark.png">
 
 ## **Coding standards**
 Coding standards, often dismissed as mere stylistic preferences, have a profound impact on software engineering. While some may debate the minute details of indentation and brace placement, implementing one technique to improve software quality should be the implementation of coding standards. These standards serve as a backbone of well-organized code and readability.
