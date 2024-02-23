@@ -25,24 +25,25 @@ As an example, in one of my projects for my software engineering course, I was t
 
 <div class="container">
   <div class="row pt-2">
-    <div class="col-2"></div>
+    <div class="col-1"></div>
     <div class="col-4 px-1">
       <div class="card">
-        <img src="../img/bootstrap/northfacemain.png" width="300px">
+        <img src="../img/bootstrap/northfacemain.png">
         <div class="card-body">
           <h5 class="card-text">Main image with text</h5>
         </div>
       </div>
     </div>
+    <div class="col-2"></div>
     <div class="col-4 px-1">
       <div class="card">
-        <img src="../img/bootstrap/northfacecards.png" width="300px">
+        <img src="../img/bootstrap/northfacecards.png">
         <div class="card-body">
           <h5 class="card-text">Grid system with cards</h5>
         </div>
       </div>
     </div>
-    <div class="col-2"></div>
+    <div class="col-1"></div>
   </div>
 </div>
 
