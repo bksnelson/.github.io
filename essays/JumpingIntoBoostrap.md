@@ -23,8 +23,8 @@ The grid system in Bootstrap 5 proved to be excellent and easy to use. Its flexi
 ## **Bootstrap 5 example**
 As an example, in one of my projects for my software engineering course, I was tasked with recreating a website using Bootstrap 5. For this project, I chose to recreate The North Face store page. With the Bootstrap grid system I was able to make fluid and properly sectioned elements of the page. Alongside the grid system, I used the card system that seamlessly combined text and images into one cohesive and organized element. The predefined layouts and example code in the documentation greatly reduced the time and effort required to implement these features. 
 
-<div class="container">
-  <div class="row pt-2">
+<div class="container py-3">
+  <div class="row">
     <div class="col-1"></div>
     <div class="col-4 px-1">
       <div class="card">
