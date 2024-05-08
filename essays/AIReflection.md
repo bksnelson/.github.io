@@ -4,7 +4,7 @@ type: essay
 title: "The Potential of AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
-published: false
+published: true
 labels:
   - Education
   - Aritifial Intelligence
@@ -14,7 +14,7 @@ labels:
 <img width="500px" class="rounded float-start pe-4" src="../img/AI/chatgpt.jpg">
 
 ### I. Introduction
-The integration of Artificial Intelligence in education marks a shift in how students learn and apply technological skills. AI tools like chaGPT and GitHub Co-Pilot have become instrumental tools in providing on-demand educational support for code develop[ent and enhancing the learning experiences through interactive and personalized assistance. In my coursework for ICS 214, I have primarily used CHatGPT to assist with various problems such as coding and writing essays. These tools have introduced new dynamics in understanding complex software engineering principles and have changed the direction of the traditional learning process.
+The integration of Artificial Intelligence in education marks a shift in how students learn and apply technological skills. AI tools like chatGPT and GitHub Co-Pilot have become instrumental tools in providing on-demand educational support for code development and enhancing the learning experiences through interactive and personalized assistance. In my coursework for ICS 314, I have primarily used ChatGPT to assist with various problems such as coding and writing essays. These tools have introduced new dynamics in understanding complex software engineering principles and have changed the direction of the traditional learning process.
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -28,15 +28,15 @@ I have used AI in class this semester in the following areas:
 4. Essays
    I did use AI for essays, primarily for grammar checking and structuring guidelines. This helped with clarity and coherence with the points I wanted to get across. The immediate feedback from AI on these issues proved to save time.
 5. Final project
-   I did use AI for the final project. AI was useful for providing suggestions and best practices with Meteor, react, uniforms, and MongoDB. It helped to clarify unfamiliar concepts and offered examples from similar past projects.
+   I did use AI for the final project. AI was useful for providing suggestions and best practices with Meteor, React, Uniforms, and MongoDB. It helped to clarify unfamiliar concepts and offered examples from similar past projects.
 6. Learning a concept / tutorial
    I did use AI to learn concepts. AI was beneficial for grasping new concepts, especially in React ( hooks and lifting state up). It offered detailed explanations and useful examples that helped me understand more efficiently.
 7. Answering a question in class or in Discord
-   I did not use AI for answering questions in class or in Discord.
+   I did not use AI to answer questions in class or in Discord.
 8. Asking or answering a smart-question
    I did not use AI to ask or answer smart-questions.
 9. Coding example e.g. “give an example of using Underscore .pluck”
-   For coding examples, when I first started learning about React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects. 
+   I did use AI for coding examples. When I first started learning about React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects. 
 ```import React, { useState } from 'react';
 
 function Counter() {
@@ -61,10 +61,9 @@ export default Counter;
 11. Writing code
     I occasionally used AI for writing code. I used AI when I encountered complex problems. While the AI suggestions were helpful, I ensured that I fully understood the solutions by requesting detailed explanations of the code.
 12. Documenting code
-    I did not use AI to document code. I have not been in the habit of documenting the code that I write even though I should. I would consider using AI in the future for this.
-
+    I did not use AI to document code. I have not been in the habit of documenting the code that I write, even though I should. I would consider using AI in the future for this.
 13. Quality assurance
-    I did use AI for quality assurance. For quality assurance, in particularly for functions that interact with MongoDB, AI was a valuable resource. I found that using AI to ask if there would be any potential problems with the code would be helpful in preventing errors down the line.
+    I did use AI for quality assurance. For quality assurance, particularly for functions that interact with MongoDB, AI was a valuable resource. I found that using AI to ask if there would be any potential problems with the code would be helpful in preventing errors down the line.
 14. Other uses in ICS 314 not listed above
     I did not use AI for other uses.
 
