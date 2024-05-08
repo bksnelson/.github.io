@@ -19,53 +19,52 @@ The integration of Artificial Intelligence in education marks a shift in how stu
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
 
-1. Experience WODs e.g. E18
-   I did not use AI for the Experience WODs because the available learning materials and videos sufficiently guided me through the tasks. My approach was to attempt the WODs independently, using the videos for clarification only when necessary.
-2. In-class Practice WODs
-   I did not use AI during in-class practice WODs. I preferred to get a more hands-on learning experience by directly interacting with the tasks with feedback from peers and the instructor.
-3. In-class WODs
-   I did not use AI during in-class WODs. For timed tests, I think that being prepared and building muscle memory is a better approach than looking for answers with AI. An hour before each WOD, I would redo the experience WODs at least a couple times. I think this approach is better for retaining study material.
-4. Essays
-   I did use AI for essays, primarily for grammar checking and structuring guidelines. This helped with clarity and coherence with the points I wanted to get across. The immediate feedback from AI on these issues proved to save time.
-5. Final project
-   I did use AI for the final project. AI was useful for providing suggestions and best practices with Meteor, React, Uniforms, and MongoDB. It helped to clarify unfamiliar concepts and offered examples from similar past projects.
-6. Learning a concept / tutorial
-   I did use AI to learn concepts. AI was beneficial for grasping new concepts, especially in React ( hooks and lifting state up). It offered detailed explanations and useful examples that helped me understand more efficiently.
-7. Answering a question in class or in Discord
-   I did not use AI to answer questions in class or in Discord.
-8. Asking or answering a smart-question
-   I did not use AI to ask or answer smart-questions.
-9. Coding example e.g. “give an example of using Underscore .pluck”
-   I did use AI for coding examples. When I first started learning about React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects. 
-```import React, { useState } from 'react';
+1. Experience WODs e.g. E18  
+   I did not use AI for the Experience WODs because the available learning materials and videos sufficiently guided me through the tasks. My approach was to attempt the WODs independently, using the videos for clarification only when necessary.  
+2. In-class Practice WODs  
+   I did not use AI during in-class practice WODs. I preferred to get a more hands-on learning experience by directly interacting with the tasks with feedback from peers and the instructor.  
+3. In-class WODs  
+   I did not use AI during in-class WODs. For timed tests, I think that being prepared and building muscle memory is a better approach than looking for answers with AI. An hour before each WOD, I would redo the experience WODs at least a couple times. I think this approach is better for retaining study material.  
+4. Essays  
+   I did use AI for essays, primarily for grammar checking and structuring guidelines. This helped with clarity and coherence with the points I wanted to get across. The immediate feedback from AI on these issues proved to save time.  
+5. Final project  
+   I did use AI for the final project. AI was useful for providing suggestions and best practices with Meteor, React, Uniforms, and MongoDB. It helped to clarify unfamiliar concepts and offered examples from similar past projects.  
+6. Learning a concept / tutorial  
+   I did use AI to learn concepts. AI was beneficial for grasping new concepts, especially in React ( hooks and lifting state up). It offered detailed explanations and useful examples that helped me understand more efficiently.  
+7. Answering a question in class or in Discord  
+   I did not use AI to answer questions in class or in Discord.  
+8. Asking or answering a smart-question  
+   I did not use AI to ask or answer smart-questions.  
+9. Coding example e.g. “give an example of using Underscore .pluck”  
+   I did use AI for coding examples. When I first started learning about React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects.    ```import React, { useState } from     'react';
 
-function Counter() {
-// Define a state variable named 'count' and a function to update it named 'setCount'
-const [count, setCount] = useState(0);
+    function Counter() {
+    // Define a state variable named 'count' and a function to update it named 'setCount'
+    const [count, setCount] = useState(0);
 
-return (
-<div>
-<p>Count: {count}</p>
-{/* Button to increment the count */}
-<button onClick={() => setCount(count + 1)}>Increment</button>
-{/* Button to decrement the count */}
-<button onClick={() => setCount(count - 1)}>Decrement</button>
-</div>
-);
-}
+    return (
+    <div>
+    <p>Count: {count}</p>
+    {/* Button to increment the count */}
+    <button onClick={() => setCount(count + 1)}>Increment</button>
+    {/* Button to decrement the count */}
+    <button onClick={() => setCount(count - 1)}>Decrement</button>
+    </div>
+    );
+    }
 
-export default Counter;
-```
-10. Explaining code
-    I did use AI to explain code. Using AI to explain code significantly sped up my learning process, as it provided clear, immediate explanations that were often more accessible than searching through online documentation or forums.
-11. Writing code
-    I occasionally used AI for writing code. I used AI when I encountered complex problems. While the AI suggestions were helpful, I ensured that I fully understood the solutions by requesting detailed explanations of the code.
-12. Documenting code
-    I did not use AI to document code. I have not been in the habit of documenting the code that I write, even though I should. I would consider using AI in the future for this.
-13. Quality assurance
-    I did use AI for quality assurance. For quality assurance, particularly for functions that interact with MongoDB, AI was a valuable resource. I found that using AI to ask if there would be any potential problems with the code would be helpful in preventing errors down the line.
-14. Other uses in ICS 314 not listed above
-    I did not use AI for other uses.
+    export default Counter;
+    ```
+10. Explaining code  
+    I did use AI to explain code. Using AI to explain code significantly sped up my learning process, as it provided clear, immediate explanations that were often more accessible than searching through online documentation or forums.  
+11. Writing code  
+    I occasionally used AI for writing code. I used AI when I encountered complex problems. While the AI suggestions were helpful, I ensured that I fully understood the solutions by requesting detailed explanations of the code.  
+12. Documenting code  
+    I did not use AI to document code. I have not been in the habit of documenting the code that I write, even though I should. I would consider using AI in the future for this.  
+13. Quality assurance  
+    I did use AI for quality assurance. For quality assurance, particularly for functions that interact with MongoDB, AI was a valuable resource. I found that using AI to ask if there would be any potential problems with the code would be helpful in preventing errors down the line.  
+14. Other uses in ICS 314 not listed above  
+    I did not use AI for other uses.  
 
 ### III. Impact on Learning and Understanding:
 The use of AI in my coursework significantly influenced my learning experience by enhancing comprehension and skill development. AI’s instant feedback and vast knowledge base allowed me to explore deeper into software engineering concepts such as React programming and MongoDB integration. It gives a hands-on approach to problem-solving, where AI-generated solutions and examples provide a strong starting point or analysis for my own solutions. This interaction notably boosted my problem-solving skills and allowed me to take on software engineering challenges more confidently and efficiently.
