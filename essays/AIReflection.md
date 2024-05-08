@@ -11,7 +11,7 @@ labels:
   - ChatGPT
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/AI/chatgpt.jpg">
+<img width="300px" alt="" class="rounded float-start pe-4" src="../img/AI/chatgpt.jpg">
 
 ### I. Introduction
 The integration of Artificial Intelligence in education marks a shift in how students learn and apply technological skills. AI tools like ChatGPT and GitHub Co-Pilot have become instrumental tools in providing on-demand educational support for code development and enhancing the learning experiences through interactive and personalized assistance. In my coursework for ICS 314: Software Engineering, I have primarily used ChatGPT to assist with various problems such as coding and writing essays. These tools have introduced new dynamics in understanding complex software engineering principles and have changed the direction of the traditional learning process.
@@ -20,7 +20,7 @@ The integration of Artificial Intelligence in education marks a shift in how stu
 I have used AI in class this semester in the following areas:
 
 1. Experience WODs e.g. E18
-   I did not use AI for the Experience WODs because the available learning materials and videos sufficiently guided me through the tasks. My approach was to attempt the WODs independently, using the videos for clarification only when necessary.
+   I did not use AI for the experience WODs. The available learning materials and videos sufficiently guided me through the tasks. My approach was to attempt the WODs independently, using the videos for clarification only when necessary.
 
 2. In-class Practice WODs
    I did not use AI during in-class practice WODs. I preferred to get a more hands-on learning experience by directly interacting with the tasks with feedback from peers and the instructor.
@@ -29,13 +29,13 @@ I have used AI in class this semester in the following areas:
    I did not use AI during in-class WODs. For timed tests, I think that being prepared and building muscle memory is a better approach than looking for answers with AI. An hour before each WOD, I would redo the experience WODs at least a couple times. I think this approach is better for retaining study material.
 
 4. Essays
-   I did use AI for essays, primarily for grammar checking and structuring guidelines. This helped with clarity and coherence with the points I wanted to get across. The immediate feedback from AI on these issues proved to save time.
+   I did use AI for essays, primarily for grammar checking, and structuring guidelines. This helped with clarity and coherence with the points I wanted to get across. The immediate feedback from AI on these issues proved to save time.
 
 5. Final project
    I did use AI for the final project. AI was useful for providing suggestions and best practices with Meteor, React, Uniforms, and MongoDB. It helped to clarify unfamiliar concepts and offered examples from similar past projects.
 
 6. Learning a concept / tutorial
-   I did use AI to learn concepts. AI was beneficial for grasping new concepts, especially in React ( hooks and lifting state up). It offered detailed explanations and useful examples that helped me understand more efficiently.
+   I did use AI to learn concepts. AI was beneficial for grasping new concepts, especially in React (hooks and lifting state up). It offered detailed explanations and useful examples that helped me understand more efficiently.
 
 7. Answering a question in class or in Discord
    I did not use AI to answer questions in class or in Discord.
@@ -44,7 +44,7 @@ I have used AI in class this semester in the following areas:
    I did not use AI to ask or answer smart-questions.
 
 9. Coding example e.g. “give an example of using Underscore .pluck”
-   I did use AI for coding examples. When I first started learning about React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects.
+   I did use AI for coding examples. When I first started learning React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects.
 
     ```javascript 
        import React, { useState } from 'react';
@@ -95,7 +95,7 @@ While AI presents remarkable benefits, it also poses challenges and limitations.
 Comparing traditional teaching methods with the use of AI reveals significant differences. Traditional methods emphasize structured learning and foundational theory, which are crucial for deep understanding but may lack the immediacy and customization that AI tools offer. AI learning promotes engagement, immediate application, and high interaction, which can lead to improved knowledge retention and practical skill development, particularly in a fast-moving field like software engineering.
 
 ### VII. Future Considerations:
-The future of AI in software engineering education looks promising yet challenging. As AI technology advances, its integration into education can become more fined and offer more personalized and adaptive earning experiences. The challenge will be to balance AI with traditional learning methods to ensure that students receive immediate assistance while developing critical thinking and problem-solving skills.
+The future of AI in software engineering education looks promising yet challenging. As AI technology advances, its integration into education can become more refined and offer more personalized and adaptive learning experiences. The challenge will be to balance AI with traditional learning methods to ensure that students receive immediate assistance while developing critical thinking and problem-solving skills.
 
 ### VIII. Conclusion:
-The use of AI in the ICS 314 has profoundly impacted my learning experience, providing both enhancements and new challenges. While AI tools have greatly assisted in understanding complex concepts and performing tasks, it is crucial to maintain a balance to ensure comprehensive learning. Going forward, optimizing the integration of AI in the computer science field will require continuous adaptation and evaluation to maximize its benefits while mitigating its limitations.
+The use of AI in ICS 314 has profoundly impacted my learning experience, providing both enhancements and new challenges. While AI tools have greatly assisted in understanding complex concepts and performing tasks, it is crucial to maintain a balance to ensure comprehensive learning. Going forward, optimizing the integration of AI in the computer science field will require continuous adaptation and evaluation to maximize its benefits while mitigating its limitations.
