@@ -11,7 +11,7 @@ labels:
   - ChatGPT
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/AI/chatgpt.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/AI/chatgpt.jpg">
 
 ### I. Introduction
 The integration of Artificial Intelligence in education marks a shift in how students learn and apply technological skills. AI tools like chatGPT and GitHub Co-Pilot have become instrumental tools in providing on-demand educational support for code development and enhancing the learning experiences through interactive and personalized assistance. In my coursework for ICS 314, I have primarily used ChatGPT to assist with various problems such as coding and writing essays. These tools have introduced new dynamics in understanding complex software engineering principles and have changed the direction of the traditional learning process.
@@ -36,25 +36,27 @@ I have used AI in class this semester in the following areas:
 8. Asking or answering a smart-question  
    I did not use AI to ask or answer smart-questions.  
 9. Coding example e.g. “give an example of using Underscore .pluck”  
-   I did use AI for coding examples. When I first started learning about React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects.    ```import React, { useState } from     'react';
+   I did use AI for coding examples. When I first started learning about React, a framework I found particularly challenging, I used AI to guide me through it. When learning how to use the usestate hook, I turned to AI for explanations and examples. This was incredibly helpful for understanding how state management works in functional components. The example given was a simple counter example, where a state variable count is updated through setCount. This example clarified my understanding and accelerated my ability to implement React hooks in actual projects.
+    ```javascript 
+       import React, { useState } from 'react';
 
-    function Counter() {
-    // Define a state variable named 'count' and a function to update it named 'setCount'
-    const [count, setCount] = useState(0);
+       function Counter() {
+       // Define a state variable named 'count' and a function to update it named 'setCount'
+       const [count, setCount] = useState(0);
 
-    return (
-    <div>
-    <p>Count: {count}</p>
-    {/* Button to increment the count */}
-    <button onClick={() => setCount(count + 1)}>Increment</button>
-    {/* Button to decrement the count */}
-    <button onClick={() => setCount(count - 1)}>Decrement</button>
-    </div>
-    );
-    }
+       return (
+       <div>
+       <p>Count: {count}</p>
+       {/* Button to increment the count */}
+       <button onClick={() => setCount(count + 1)}>Increment</button>
+       {/* Button to decrement the count */}
+       <button onClick={() => setCount(count - 1)}>Decrement</button>
+       </div>
+       );
+       }
 
-    export default Counter;
-    ```
+       export default Counter;
+   ```
 10. Explaining code  
     I did use AI to explain code. Using AI to explain code significantly sped up my learning process, as it provided clear, immediate explanations that were often more accessible than searching through online documentation or forums.  
 11. Writing code  
