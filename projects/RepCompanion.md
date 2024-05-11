@@ -58,5 +58,9 @@ The Schedules Collection underpins the personal scheduling feature, allowing use
     <img style="width: 1000px" alt="" class="pe-4" src="../img/RepCompanion/schedule.png">
 </div>
 
+<div class="row justify-content-center">
+    <img style="width: 1000px" alt="" class="pe-4" src="../img/RepCompanion/userprofile.png">
+</div>
+
 #### Management of Data through Meteor Methods
 Data integrity and secure interaction are maintained through Meteor methods, which handle all data operations on the server side. These methods ensure that user inputs, such as profile updates, event registrations, and schedule modifications, are processed securely and efficiently. 
