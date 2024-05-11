@@ -20,7 +20,7 @@ Rep Companion serves as a virtual community where users can find like-minded ind
 [Rep Companion Page](https://uh-repcompanion.github.io/)
 
 <div class="row justify-content-center">
-    <img width="600px" alt="" class="pe-4" src="../img/RepCompanion/home.png">
+    <img style="width: 600px" alt="" class="pe-4" src="../img/RepCompanion/home.png">
 </div>
 
 
