@@ -14,15 +14,14 @@
     ]
   },
   "interests": [
-    { "name": "Software engineering" },
-    { "name": "Game developement" },
-    { "name": "App developement" },
-    { "name": "Web developement" }
+    { "name": "Game Development" },
+    { "name": "App Development" },
+    { "name": "Front/Back End Web Development" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Javascript", "HTML", "Java", "React" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,12 +31,41 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.A.",
-      "startDate": "2023-09-01",
+      "startDate": "2023",
       "endDate": "Present",
       "courses": [
       ]
     }
   ],
+  "work": [
+  ],
+  "volunteer": [
+    {
+    "organization": "Ka Papa Lo’i o Kanewai",
+    "website": "https://manoa.hawaii.edu/hshk/ka-papa-loi-o-kanewai/",
+    "position": "Volunteer",
+    "startDate": "2024",
+    "endDate": "Present",
+    "summary": "Participate in traditional Hawaiian taro cultivation and sustainable agricultural practices.",
+    "highlights": [
+      "Learned traditional water management systems integral to the ahupua’a",
+      "Participated in educational activities about the anatomy of kalo plants and Hawaiian farming techniques"
+    ]
+  }
+  ],
+  "awards": [
+    {
+      "title": "University of Hawai'i at Manoa Dean's List",
+      "date": "2023-Present",
+      "awarder": "Pheng Xiong, M.Ed.",
+      "summary": "Undergraduate student earned a semester GPA of 3.5 or higher based on 12 credits that did not receive grades of no credit, withdrawn, incomplete, failure."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
 }
