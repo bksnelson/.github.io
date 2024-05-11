@@ -10,7 +10,7 @@ labels:
   - Education
   - Web Development
 ---
-<img width="350" alt="" class="rounded float-start pe-4" src="../img/SEReflection/web-design.png">
+<img width="300" alt="" class="rounded float-start pe-4" src="../img/SEReflection/web-design.png">
 
 ## **Introduction**
 Through my software engineering course, ICS 314, I engaged deeply with several key aspects of software development. This included Agile Project Management through the use of Issue Driven Project Management (IDPM), experiencing User Interface Frameworks with a focus on Bootstrap, and upholding coding standards enforced with ESLint. These elements were instrumental in enhancing my capabilities in web application development and provided valuable insights that are applicable across various software engineering disciplines. The course effectively bridged theoretical concepts with practical implementation, which gave me a great introduction to understanding each component’s impact on overall project lifecycles.
