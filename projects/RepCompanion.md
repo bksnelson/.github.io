@@ -8,6 +8,7 @@ published: true
 labels:
   - Group project
   - Javascript
+  - Bootstrap
   - React
   - Meteor 
   - MongoDB
@@ -16,8 +17,9 @@ summary: "Group project gym buddy finding website."
 ---
 
 Rep Companion serves as a virtual community where users can find like-minded individuals to share their fitness goals and activities. It enables users to create profiles, join event groups, and manage personal schedules. The integration of Meteor and React ensures real-time responsiveness, while MongoDB provides a flexible database structure, and Uniforms facilitate streamlined form management, enhancing the user experience and interface design. My contribution to the project was mainly focused on data management and incorporating it into the website's overall functionality.
+[Rep Companion](https://uh-repcompanion.github.io/)
 
-<img width="400px" alt="" class="float-start pe-4" src="../img/RepCompanion/home.png">
+<img width="800px" alt="" class="pe-4" src="../img/RepCompanion/home.png">
 
 
 #### Database Architecture and Collections:
@@ -39,18 +41,18 @@ Filtration is a vital feature of the website, allowing users to find potential g
 
 These collections ensure that the filtration process is both efficient and relevant, fetching data dynamically based on user queries and preferences.
 
-<img width="400px" alt="" class="float-start pe-4" src="../img/RepCompanion/profiles.png">
+<img width="800px" alt="" class="pe-4" src="../img/RepCompanion/profiles.png">
 
 
 #### Event Finding and Its Collection:
 Event management is another critical aspect of the website, supported by the Events collection. This collection records details about fitness events, including dates, locations, and descriptions. The ProfileEvents collection is used to handle event participation, where each profile is tied to a specific event in the Event collection. Users can find events that match their interests and the real-time capabilities of Meteor ensure that event listings and event participation are always up-to-date and responsive to user interactions.
 
-<img width="400px" alt="" class="float-start pe-4" src="../img/RepCompanion/events.png">
+<img width="800px" alt="" class="pe-4" src="../img/RepCompanion/events.png">
 
 #### Personal Schedule and Its Collection:
 The Schedules collection underpins the personal scheduling feature, allowing users to manage their fitness activities. Each user’s schedule is personalized and includes recurring personal workouts. The ProfilesSchedules collection keeps track of each user’s scheduled day, which is used in the profile filtration and is displayed on the user’s profile. This feature is integral to helping users plan their fitness routines effectively, ensuring they can maximize their time and commitment to fitness.
 
-<img width="400px" alt="" class="float-start pe-4" src="../img/RepCompanion/schedule.png">
+<img width="800px" alt="" class="pe-4" src="../img/RepCompanion/schedule.png">
 
 #### Management of Data through Meteor Methods
 Data integrity and secure interaction are maintained through Meteor methods, which handle all data operations on the server side. These methods ensure that user inputs, such as profile updates, event registrations, and schedule modifications, are processed securely and efficiently. 
