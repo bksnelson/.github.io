@@ -14,9 +14,9 @@
     ]
   },
   "interests": [
-    { "name": "Game Development" },
-    { "name": "App Development" },
-    { "name": "Front/Back End Web Development" }
+    { "name": "Front/Back End Web Development" },
+    { "name": "Mobile App Development" },
+    { "name": "Game Development" }
   ],
   "skills": [
     {
