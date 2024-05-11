@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Jumping Into Bootstrap 5"
+title: "Building Foundations in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-10
 published: true
