@@ -51,10 +51,12 @@ Event management is another critical aspect of the website, supported by the Eve
 <div class="row justify-content-center">
     <img style="width: 1000px" alt="" class="pe-4" src="../img/RepCompanion/events.png">
 </div>
-#### Personal Schedule and Its Collection:
+
+#### Personal Schedule and its Collection:
 The Schedules Collection underpins the personal scheduling feature, allowing users to manage their fitness activities. Each user’s schedule is personalized and includes recurring personal workouts. The ProfilesSchedules Collection keeps track of each user’s scheduled day, which is used in the profile filtration and is displayed on the user’s profile. This feature is integral to helping users plan their fitness routines effectively, ensuring they can maximize their time and commitment to fitness.
 <div class="row justify-content-center">
     <img style="width: 1000px" alt="" class="pe-4" src="../img/RepCompanion/schedule.png">
 </div>
+
 #### Management of Data through Meteor Methods
 Data integrity and secure interaction are maintained through Meteor methods, which handle all data operations on the server side. These methods ensure that user inputs, such as profile updates, event registrations, and schedule modifications, are processed securely and efficiently. 
