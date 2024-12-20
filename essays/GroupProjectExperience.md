@@ -11,7 +11,7 @@ labels:
   - Web Development
   - MongoDB
 ---
-<img width="300" alt="" class="rounded float-start pe-4" src="../img/SEReflection/web-design.png">
+<img width="300" alt="" class="rounded float-start pe-4" src="../img/GroupProject.jpg">
 
 ## **8-Man Group Proejct**
 Working on an eight-person group project to develop a data auditing platform was a significant learning experience, particularly in the realm of backend development. My role involved designing and implementing the database schema to store complex financial data. Although we managed to deliver a functional system, it fell short of our initial vision due to several missing features.
