@@ -4,7 +4,7 @@ type: project
 image: img/c++/c++.png
 title: "Hotel Management"
 date: 2023
-published: true
+published: false
 labels:
   - Group project
   - C++
