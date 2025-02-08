@@ -4,7 +4,7 @@ type: essay
 title: "The Potential of AI"
 # All dates must be YYYY-MM-DD format!
 date: 2024-05-07
-published: true
+published: false
 labels:
   - Education
   - Aritifial Intelligence
