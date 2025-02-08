@@ -4,7 +4,7 @@ type: project
 image: img/java/java.png
 title: "Statistician"
 date: 2022
-published: true
+published: false
 labels:
   - Class project
   - Java
